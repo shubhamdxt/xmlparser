@@ -26,7 +26,7 @@ public class XMLFileReaderData {
 			 System.out.println(doc.getDocumentElement().getNodeName());
 			 NodeList nodeList=doc.getElementsByTagName("account");
 			 System.out.println(nodeList);
-			 System.out.println("good");
+			 
 			 
 
 			 
